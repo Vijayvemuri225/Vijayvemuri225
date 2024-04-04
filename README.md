@@ -19,7 +19,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-![](https://komarev.com/ghpvc/?username=Vijayvemuri225)
-![](https://komarev.com/ghpvc/?username=Vijayvemuri225&color=blueviolet)
+
+![](https://komarev.com/ghpvc/?username=Vijayvemuri225&label=PROFILE+VIEWS&color=green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
