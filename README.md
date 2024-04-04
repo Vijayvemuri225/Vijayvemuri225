@@ -20,6 +20,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Vijayvemuri225&label=PROFILE+VIEWS&color=green)
+![](https://komarev.com/ghpvc/?username=Vijayvemuri225&label=PROFILE+VIEWS&color=orange)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
